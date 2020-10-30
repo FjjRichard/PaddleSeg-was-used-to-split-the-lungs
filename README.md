@@ -1,7 +1,10 @@
 # PaddleSeg-was-used-to-split-the-lungs
 PaddleSeg was used to divide the chest lungs with a chest X-ray
+
 **项目背景**
+
 欢迎百度aistudio中叉项目并运行。https://aistudio.baidu.com/aistudio/projectdetail/1170556?shared=1
+
 参加了aistudio的分割课程之后【课程链接[ https://aistudio.baidu.com/aistudio/course/introduce/1767 ]（HTTP：//）），试效果，就使用了PaddleSeg开发套件进行自己的项目。
 
 本来打算做胸部x光气胸的分割的。发现标记气胸的太耗时间。今天临时标记了51张肺部分割的数据。（标记了几个小时。。。。绝对原创数据。。。）试试PaddleSeg的效果。还不错
